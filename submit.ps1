@@ -1,0 +1,1 @@
+cat ./script.ps1 -encoding utf8 | Invoke-Expression
